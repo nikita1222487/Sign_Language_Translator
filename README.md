@@ -15,5 +15,5 @@ Features
  Minimal stress on memory
  Cohesive Text Styling
  Simple User Interface
- Comprehensive Commenting
+ Comprehensive Commenting 
 
